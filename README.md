@@ -1,5 +1,9 @@
 # 🔧 Predictive Maintenance System
 
+🚀 **Live Demo:** https://predictive-maintenance-system-4tahqyyff9wcnvmppml6ox.streamlit.app/
+
+Machine Failure Prediction using Machine Learning and Streamlit.
+
 ## 📌 Project Overview
 
 The Predictive Maintenance System is a Machine Learning-based web application that predicts whether a machine is likely to fail based on sensor readings. The project uses a Random Forest Classifier trained on the AI4I 2020 Predictive Maintenance Dataset and provides predictions through an interactive Streamlit dashboard.
